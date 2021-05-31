@@ -1,0 +1,4 @@
+rootProject.name = "WaveAccessTest"
+include ':app'
+include ':Domain'
+include ':Data'
